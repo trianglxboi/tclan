@@ -1,0 +1,18 @@
+# IDE/Code Editor specific
+.vs/
+.vscode/
+
+# Binary Outputs
+bin/
+bin-obj/
+!vendor/premake/bin
+
+# Log Outputs
+*.log
+
+# Project Files
+*.sln
+*.vcxproj*
+Makefile
+/Makefile
+*.mk
